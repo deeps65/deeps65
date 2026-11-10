@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Coding enthusiast 😎<br>Front-end developer ✌️<br>Hacktoberfest 2022 participant 🔥<br>Google Data Analytics professional certificate holder  👻<br><br>
+I'm a Coding enthusiast 😎<br>DevOps Engineer ✌️<br>Hacktoberfest 2022 participant 🔥<br>Google Data Analytics professional certificate holder  👻<br><br>
 
 
 ## 🌐 Socials:
